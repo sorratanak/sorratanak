@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sorratanak
+- 👀 I’m interested in Java, Nodejs, Python, Block Chain, Angular, IONIC
+- 🌱 I’m currently learning technology in Block Chain
+- 📫 How to reach me sorratanak@gmail.com
